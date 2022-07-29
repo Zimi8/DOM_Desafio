@@ -1,0 +1,7 @@
+en la Carpeta " startbootstrap-shop-homepage-gh-pages " está la práctica.
+Digo práctica porque me costó mucho entender la clase de DOM.
+Me parece genial así que ahora me voy a apartar mucho más tiempo para repasar
+principios desde las primeras clases para el Desafio Final.
+el Archivo-JS es " DOM_desafio.js "  
+
+
